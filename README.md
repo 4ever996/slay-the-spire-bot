@@ -5,3 +5,4 @@ slay-the-spire-bot
 简要使用方式：“确保你的电脑上有杀戮尖塔，点击CheckEnvironment.cmd后没弹出报错即可进行点击StartBot.cmd的运行，此时机器人就会开始运行了。结束运行时记得点击StopBot.cmd去结束进程以免下次启动机器人时进程被占用”。更详细的使用说明可在本体文件夹中找到
 启动机器人后会弹出bot的运行逻辑和当前主流流派
 本机器人旨在帮助大家更好的了解角色各个流派和更快地入门杀戮尖塔
+<img width="2337" height="1554" alt="image" src="https://github.com/user-attachments/assets/d2b1a776-b701-4687-b2d0-920f1ad23c0b" />
