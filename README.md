@@ -6,3 +6,4 @@ slay-the-spire-bot
 启动机器人后会弹出bot的运行逻辑和当前主流流派
 本机器人旨在帮助大家更好的了解角色各个流派和更快地入门杀戮尖塔
 <img width="2450" height="1543" alt="image" src="https://github.com/user-attachments/assets/47edda37-b9bd-4ddb-a25c-28b0b005d1ca" />
+<img width="2450" height="1543" alt="image" src="https://github.com/user-attachments/assets/aec420e2-e845-47ac-95c1-f26b05aaa2b4" />
