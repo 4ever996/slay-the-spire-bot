@@ -1,6 +1,6 @@
 slay-the-spire-bot
 
-主页的STSBot-v327-GitHub-Source.zip仅为机器人的逻辑压缩包，未在里面放入所需环境和mod等其它运行必要包，完整压缩包请在tag下载zip，大概32MB
+主页的STSBot-v327-GitHub-Source.zip仅为机器人的逻辑压缩包，未在里面放入所需环境和mod等其它运行必要包，完整压缩包请在tag下载zip，大概32MB(文件太大无法放入主页)
 
 基于python的杀戮尖塔自动爬塔机器人，目前仅做了战士爬塔模块，项目仍在更新
 
