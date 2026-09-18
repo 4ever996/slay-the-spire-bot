@@ -1,6 +1,6 @@
 slay-the-spire-bot
 
-主页的STSBot-v327-GitHub-Source.zip仅为机器人的逻辑压缩包，未在里面放入所需环境和mod等其它运行必要包，完整压缩包请在tag下载zip，大概32MB(文件太大无法放入主页)
+玩家请下载完整便携包，不要下载源码包。在本仓库页面右侧的 Releases → Assets 中选择 STSBot-v327-Portable.zip，大小约 32 MB。主页的源码 ZIP 不包含 Python 运行环境和所需 Mod，不能直接当作玩家运行包使用。
 
 基于python的杀戮尖塔自动爬塔机器人，目前仅做了战士爬塔模块，项目仍在更新
 
